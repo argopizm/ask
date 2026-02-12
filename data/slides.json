@@ -4,16 +4,16 @@
     "backgroundUrl": "/uploads/1770671961249-fg.jpg",
     "characterUrl": "/uploads/1770654978697-aiko_v2.gif",
     "characterPosition": "bottom-right",
-    "text": "Selam Anne Ben Gökçinn Bugun Sana Bi Hikaye Anlatmak İçin Burdayımm Babam Rica Etti Bende Kıramadım Tabiki ",
-    "duration": 8000
+    "text": "Selam Anne Ben Gökçinn Bugun Sana Bi Hikaye Anlatmak İçin Burdayımm ( Babam Zorla Getirdi )",
+    "duration": 9000
   },
   {
     "id": "18107e7f-6732-4155-b80e-9795a1756e68",
     "backgroundUrl": "/uploads/1770672071457-fg.jpg",
     "characterUrl": "/uploads/1770655139529-aiko_v2.gif",
     "characterPosition": "bottom-left",
-    "text": "Şey Kızma Ama Babam Şey Dedi Annenin Hafızası Çok İyi Değil Ona Tüm Olanları Hatırlatmaya Ne Dersin Dedi  bende annemee anlatmayı çok isterim dedimmm ",
-    "duration": 9000,
+    "text": "Şey Kızma Ama Babam Annenin Hafızası Çok İyi Değil bazı şeyleri unutabiliyor ona tüm olanları hatırlatman gerekiyor dedi  bende annemee anlatmayı çok isterim dedimmm ",
+    "duration": 10000,
     "buttons": []
   },
   {
@@ -21,8 +21,8 @@
     "backgroundUrl": "/uploads/1770673447999-fg.jpg",
     "characterUrl": "/uploads/1770673452300-aiko_v2.gif",
     "characterPosition": "bottom-right",
-    "text": "Ama önce benim öğrenmem gerekiyordu  babam bana herşeyi anlatttı şimdi sıra benim anlatmamda anneme herşeyi anlatcammm hazırmısın anne",
-    "duration": 9000,
+    "text": "Ama önce benim öğrenmem gerekiyordu tabikideee  babam bana herşeyi anlatttı şimdi ise  sıra benim anlatmamda anneme herşeyi anlatcammm hazırmısın anne",
+    "duration": 8000,
     "buttons": [
       {
         "id": "a3300aa7-c19d-4a22-bf9f-354c457284c0",
@@ -39,7 +39,7 @@
     "characterUrl": "/uploads/1770674015209-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "SANIRIM herşey şu ate.izm sayfasında başlıyor babamın salak gibi 4 yıl unuttuğu hesap sonunda nasıl buldu oda mechul ama en azından buldu yoksa ben olamazdım 😊😊",
-    "duration": 6000,
+    "duration": 10000,
     "buttons": []
   },
   {
@@ -48,7 +48,7 @@
     "characterUrl": "/uploads/1770674058478-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Neyse bu kadar sohbet yeter annecim ilerde bol bol ederiz şimdi bakalım o sayfada ilk gün neler yaşanmış ",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -57,7 +57,7 @@
     "characterUrl": "/uploads/1770743840181-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Anne Ciddenmi Bu HERİFİ hemen engellemen gerekiyordu",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -83,7 +83,7 @@
     "characterUrl": "/uploads/1770748808467-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "yaşlarınız normal sayılır ahh ahh bende büyüyünce böyle olcammmm",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": [
       {
         "id": "2265fbaf-0534-4d6c-a0e8-62280dc5780b",
@@ -109,7 +109,7 @@
     "characterUrl": "/uploads/1770748815981-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "birlikte izliyelimmm lütfennn 3 müz birden anime ilziyebilirizzzzz",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": [
       {
         "id": "9a124067-143e-4901-8909-1afe6f07b8fc",
@@ -135,7 +135,7 @@
     "characterUrl": "/uploads/1770748823723-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "aaaaaaa ismimi koyduğunuz günnnn burası benimle ilgiliymiş tabiki bende olcaktım harikayımmm",
-    "duration": 7500,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -144,7 +144,7 @@
     "characterUrl": "/uploads/1770748827661-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "atammm atammm merak etme anne bende sizdenimmm",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -153,7 +153,7 @@
     "characterUrl": "/uploads/1770748831091-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "mc öğretsenize banada bende istiyorumm\nçok tatlı evler yaparız seninleee babam anca iskeletlerden kaçsın \n",
-    "duration": 7000,
+    "duration": 8500,
     "buttons": []
   },
   {
@@ -162,7 +162,7 @@
     "characterUrl": "/uploads/1770748834968-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "harikaa bi çizersinnnn böyle bi annem olduğu için gurur duyuyorum\n",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -180,7 +180,7 @@
     "characterUrl": "/uploads/1770748842544-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "BABAM HAKLI başka erkek anneme yaklaşamazzz babamada dişi sinek bile yaklaşamaz oyarımm",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -198,7 +198,7 @@
     "characterUrl": "/uploads/1770748852783-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "ayyy ne kadar güzel bi an ilk jamınızzz offf ilk jamı hatırlamak kadar güzel ne olabilir ",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -207,7 +207,7 @@
     "characterUrl": "/uploads/1770748858652-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "veee herşeyin başladığı kısım bu numarayı atmak deli babamla sonuçlandı anne sanki atmasanda olurdu gibi 😂😂 şaka şaka",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -216,7 +216,7 @@
     "characterUrl": "/uploads/1770748862964-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "babamın sana attığı ilk görüntü tipe bak bide çalışıyor 😂😂",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -225,7 +225,7 @@
     "characterUrl": "/uploads/1770748866543-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Babamın yaptığı duvar kağıdı bide kendinide koymuş harika annem dururken senin orda ne işin var baba",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -252,7 +252,7 @@
     "characterUrl": "/uploads/1770748878080-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "annem senin için böyle güzel bi foto çekti ve sen duva kağıdına koymadınmı baba aptalsınnnn",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": [
       {
         "id": "d751ac58-ec1e-4662-af62-7a98c57874f9",
@@ -269,7 +269,7 @@
     "characterUrl": "/uploads/1770748881672-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "anne dudakların çok güzell umarım bu genlerimi senden alırımmmmmmmm ama yinede daha 2 gündür tanışıyorsunuzzzzz naz yap nazz",
-    "duration": 700,
+    "duration": 9000,
     "buttons": []
   },
   {
@@ -278,7 +278,7 @@
     "characterUrl": "/uploads/1770748893261-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Anne bakkk tanıştıktan 3 gün sonraki ilk kombin videonn babam sana tekrar aşık olmuşş öyle diyorr kendileri ",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -287,7 +287,7 @@
     "characterUrl": "/uploads/1770748915042-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Baba seninleee gurur duyuyorumm ",
-    "duration": 6000,
+    "duration": 7000,
     "buttons": []
   },
   {
@@ -296,7 +296,7 @@
     "characterUrl": "/uploads/1770748920270-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Anne 7 Cihan gelse bunu senin yazdığına kimse benii inandıramazzz",
-    "duration": 6000,
+    "duration": 7000,
     "buttons": [
       {
         "id": "318bc1da-ec90-4a3f-a194-f99adc12a7b4",
@@ -331,7 +331,7 @@
     "characterUrl": "/uploads/1770748944336-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "İlk ravenizi hatırlıyormussun çilek kız izlemiştiniz birlikteee çok tattlıı senle oturup bunlarımı izledii ",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": [
       {
         "id": "7fc4046e-c64f-46b9-af37-c4ec7f5580d9",
@@ -348,7 +348,7 @@
     "characterUrl": "/uploads/1770748948195-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Anneeee 😂😂😂😂",
-    "duration": 5000,
+    "duration": 6000,
     "buttons": []
   },
   {
@@ -357,7 +357,7 @@
     "characterUrl": "/uploads/1770749182154-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "ilk görüntülü konuşmanızı hatırlıyormusunuz pekiiii tatlı tatlı evdeki şeyleri babama gösteriyordunnn utanıyordun altında şort var diye  😂😂😘",
-    "duration": 5000,
+    "duration": 6000,
     "buttons": []
   },
   {
@@ -366,7 +366,7 @@
     "characterUrl": "/uploads/1770749179343-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Bakkkk burasını söylememe gerek varmı anne ilkkez mc oynadığınız yer babam iş yerinden giriyordu ama tam girdiğinizde şarjın bitmişti  yinede bu dünya sizin ilk dünyanızzz",
-    "duration": 7500,
+    "duration": 9000,
     "buttons": []
   },
   {
@@ -393,7 +393,7 @@
     "characterUrl": "/uploads/1770749193531-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Ayyy çilek kız izlemişler anne babam çizgi film izleyince mağarasından çıkıcakmı sandın boşa umutlanıyorsun ",
-    "duration": 7000,
+    "duration": 8000,
     "buttons": []
   },
   {
@@ -420,7 +420,7 @@
     "characterUrl": "/uploads/1770749224336-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Anne video bitmeden bile hala mesaj yağdırıyorsun adamaaa 😂😂",
-    "duration": 5000,
+    "duration": 9000,
     "buttons": []
   },
   {
@@ -429,7 +429,7 @@
     "characterUrl": "/uploads/1770749220945-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "kurban olurumm anemeeee",
-    "duration": 5000,
+    "duration": 6000,
     "buttons": []
   },
   {
@@ -438,7 +438,7 @@
     "characterUrl": "/uploads/1770749217940-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "oha oha ilk evinizzz babamın harika çardağı arkada kalmışş( görmesekde olur )",
-    "duration": 5000,
+    "duration": 6000,
     "buttons": []
   },
   {
@@ -519,7 +519,7 @@
     "characterUrl": "/uploads/1770749238245-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Anne sanırım sen bunları izlerken hediyeni çoktan almış olman gerek  benim ormantik babam unutmamış ve hediyeyi seçerken benim doğmam açısından buna karar vermiş 😂😂😂😂",
-    "duration": 8000,
+    "duration": 10000,
     "buttons": []
   },
   {
@@ -622,21 +622,12 @@
     "buttons": []
   },
   {
-    "id": "c72e80e7-237c-4775-919a-6fc57adf6e93",
-    "backgroundUrl": "/uploads/1770747016843-IMG-20251011-WA0020.jpeg",
-    "characterUrl": "/uploads/1770749277424-aiko_v2.gif",
-    "characterPosition": "bottom-right",
-    "text": "Sanırım bu gecelerde bile mutluymuşsunuz babam öyle diyor senin için değermiş",
-    "duration": 7000,
-    "buttons": []
-  },
-  {
     "id": "b7752939-d437-46a1-8d3e-211e61d6cdce",
     "backgroundUrl": "/uploads/1770747081905-IMG-20251016-WA0017.jpeg",
     "characterUrl": "/uploads/1770749313187-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Babamın ilkezz sana doğru yola çıkmak için arabayı aldığı günnn karısını görmeye gidiyor aslanımm",
-    "duration": 7000,
+    "duration": 7500,
     "buttons": []
   },
   {
@@ -645,7 +636,7 @@
     "characterUrl": "/uploads/1770749309751-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Yolaaa Çıktıııııııı",
-    "duration": 6000,
+    "duration": 7500,
     "buttons": []
   },
   {
@@ -654,7 +645,7 @@
     "characterUrl": "/uploads/1770749306085-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Yavaş öküzz tamam güzeller güzeli annemi görmek için heycanlısın ama uçarsan görürüm seni 216 ne ",
-    "duration": 7000,
+    "duration": 7500,
     "buttons": []
   },
   {
@@ -672,7 +663,7 @@
     "characterUrl": "/uploads/1770749332425-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "oha oha oha  vardıı ve annemm onun kollarındaaaa",
-    "duration": 5000,
+    "duration": 9000,
     "buttons": []
   },
   {
@@ -681,7 +672,7 @@
     "characterUrl": "/uploads/1770749329320-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Kalanlarıda götürmüşş iki oyuncakk daha çıktı biliyonmu anne babam onlarıda saklıyor senin verdiğin büyüteci bile gözü gibi bakıyor onlaraa",
-    "duration": 7500,
+    "duration": 9000,
     "buttons": []
   },
   {
@@ -708,7 +699,7 @@
     "characterUrl": "/uploads/1770749320036-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Bu ilkkezz yüz yüze buluştuğunuzz ann ayyyy babam sana sarılıkrennn o kadar mutluyduki ağlıyabilirdi kokunu tamamen içine çekti 100 yıllık hasret gibi öyle anlattı banaaaa",
-    "duration": 8000,
+    "duration": 10000,
     "buttons": []
   },
   {
@@ -735,7 +726,7 @@
     "characterUrl": "/uploads/1770749345784-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Şey anne o gün ile ilgili bilmediğin bişey daha varrr bunu senden gizlemicem babam sana söylememişti  o gün babam otelde yatmadı yeterince parası olmadığı için diğersi günde kalmasını gerekiyordu ve siz plan yapmıştınız...",
-    "duration": 8000,
+    "duration": 11000,
     "buttons": []
   },
   {
@@ -744,7 +735,7 @@
     "characterUrl": "/uploads/1770749342738-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "ve o gün babam oraya vardığında deli dehşet sağnak yağmur vardı babam t-shirtle gelmişti ama o gün tüm gece dışarda uyudu senle buluşabilmek için  gece 3 gibi 24 saat açık bi kahve buldu ve sabaha kadar orda oturup çay falan içti  sabah 8 e kadar sonrada çıktı ve 10 da seni aradı ona kızma sadece seni görmek istemişti",
-    "duration": 9000,
+    "duration": 13000,
     "buttons": []
   },
   {
@@ -753,7 +744,7 @@
     "characterUrl": "/uploads/1770749339922-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Veeeeeee buluşmaaaaa yine yanyanalarrrr ",
-    "duration": 6000,
+    "duration": 7000,
     "buttons": []
   },
   {
@@ -798,7 +789,7 @@
     "characterUrl": "/uploads/1770748346330-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Kalan kısımlar çok eski olmadığı için onları ikinizde hatırlıyorsunuzdur ben sadece eskileri anlatmaya gelmiştim ",
-    "duration": 7000,
+    "duration": 7500,
     "buttons": []
   },
   {
@@ -807,7 +798,7 @@
     "characterUrl": "/uploads/1770748342179-aiko_v2.gif",
     "characterPosition": "bottom-right",
     "text": "Artık benim görevim bitti ve klavyeyii babama bırakıyorumm anne sana söylicekleri varmış lütfen dinlermisinnn",
-    "duration": 7000,
+    "duration": 7500,
     "buttons": [
       {
         "id": "b35ec56e-b3e6-44b3-9f45-3504bab65c5d",
@@ -824,7 +815,7 @@
     "characterUrl": "",
     "characterPosition": "bottom-right",
     "text": "Selam Bitanemm bu anıları sana benim değilde kızımızın anlatması daha iyi olur diye düşündüm ",
-    "duration": 7000,
+    "duration": 7500,
     "buttons": []
   },
   {
@@ -833,7 +824,7 @@
     "characterUrl": "",
     "characterPosition": "bottom-right",
     "text": "o güzel gözlerine söylenicek çok fazla söz oluduğunu biliyorumm ve sana olansevgimin bir kapasitesi olmadığınıda  o yüzden afilli veya şatafatlı lafları geçiyorumm",
-    "duration": 7000,
+    "duration": 9000,
     "buttons": []
   },
   {
@@ -851,7 +842,7 @@
     "characterUrl": "",
     "characterPosition": "bottom-right",
     "text": "Seni çok seviyorum balım umarım tüm hayatımız boyunca birlikte güler birlikte ağlar güzel günler geçiririzzz kurban olurum sana ben öpüyorum güzel gözlerindenn sevgililer günün kutlu olsunnnn",
-    "duration": 7000,
+    "duration": 11000,
     "buttons": []
   }
 ]
